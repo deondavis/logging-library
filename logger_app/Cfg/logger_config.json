@@ -1,0 +1,5 @@
+{
+    "type":"file",
+    "file_name":"test_file1.log",
+    "reopen_interval":"1"
+}
